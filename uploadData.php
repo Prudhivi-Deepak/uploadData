@@ -1,6 +1,6 @@
 <?php
 
-    $conn=new mysqli("localhost","demo000","demo1","demo000");
+    $conn=new mysqli("localhost","user","password","database");
     
     if($conn){
     }
